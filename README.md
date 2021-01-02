@@ -2,6 +2,10 @@ Hi there 👋
 
 My name is Rubén and here you'll find some tools I've built, mainly around **CI/CD and media automation**. 
 
+<a target="_blank" href="https://github.com/rubasace">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubasace&show_icons=true&theme=merko&count_private=true" />
+</a>
+
 ## Life @Work 👨‍💻
 
 I'm a Senior Software Engineer based in London, currently working for [Travix International](https://www.travix.com/). My area of expertise is backend development with **Spring Boot**, **Docker** and **Kubernetes**. I'm currently in charge of our Java Framework (built on top of Spring Boot) and leading the reactive adoption using **Spring Webflux**.
