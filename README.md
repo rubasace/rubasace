@@ -3,7 +3,7 @@ Hi there 👋
 My name is Rubén and here you'll find some tools I've built, mainly around **CI/CD and media automation**. 
 
 <a target="_blank" href="https://github.com/rubasace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubasace&show_icons=true&theme=merko&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubasace&show_icons=true&theme=vision-friendly-dark&count_private=true" />
 </a>
 
 ## Life @Work 👨‍💻
