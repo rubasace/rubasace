@@ -8,7 +8,7 @@ My name is Rubén and here you'll find some tools I've built, mainly around **CI
 
 ## Life @Work 👨‍💻
 
-I'm a Senior Software Engineer based in London, currently working for [Travix International](https://www.travix.com/). My area of expertise is backend development with **Spring Boot**, **Docker** and **Kubernetes**. I'm currently in charge of our Java Framework (built on top of Spring Boot) and leading the reactive adoption using **Spring Webflux**.
+I'm a Senior Software Engineer based in Pamplona, currently working remotely for [Travix International](https://www.travix.com/) London team. My area of expertise is backend development with **Spring Boot**, **Docker** and **Kubernetes**. I'm currently in charge of our Java Framework (built on top of Spring Boot) and leading the reactive adoption using **Spring Webflux**.
 
 I'm also starting to speak at meetups and conferences. You can check my talks so far here:
 
