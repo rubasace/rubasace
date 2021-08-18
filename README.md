@@ -3,8 +3,12 @@ Hi there 👋
 My name is Rubén and here you'll find some tools I've built, mainly around **CI/CD and media automation**. 
 
 <a target="_blank" href="https://github.com/rubasace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubasace&show_icons=true&theme=vision-friendly-dark&count_private=true" />
+  <img alt="Rubasace's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=rubasace&show_icons=true&theme=vision-friendly-dark&count_private=true" />
 </a>
+
+<img align="center" margin-top="20px"
+    alt="Rubasace's most used languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubasace&show_icons=true&theme=vision-friendly-dark" />
 
 ## Life @Work 👨‍💻
 
