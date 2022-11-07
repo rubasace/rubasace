@@ -12,7 +12,7 @@ My name is Rubén and here you'll find some tools I've built, mainly around **CI
 
 ## Life @Work 👨‍💻
 
-I'm a Senior Software Engineer based in Pamplona, currently working remotely for [Travix International](https://www.travix.com/) London team. My area of expertise is backend development with **Spring Boot**, **Docker** and **Kubernetes**. I'm currently in charge of our Java Framework (built on top of Spring Boot) and leading the reactive adoption using **Spring Webflux**.
+I'm a Senior Software Engineer based in Vigo (Spain), currently working remotely for [Travix International](https://www.travix.com/) London team. My area of expertise is backend development with **Spring Boot**, **Docker** and **Kubernetes**. I'm currently in charge of our Java Framework (built on top of Spring Boot) and leading the reactive adoption using **Spring Webflux**.
 
 I'm also starting to speak at meetups and conferences. You can check my talks so far here:
 
@@ -20,6 +20,7 @@ I'm also starting to speak at meetups and conferences. You can check my talks so
 - [Building a chatroom with Vue.js, Java and RSocket](https://www.meetup.com/es/VigoJUG/events/267185946/) **Meetup** - 26 Dec 2019 (Vigo, Spain)
 - [Building a Framework on top of Spring Boot](https://www.meetup.com/es/CorunaJUG/events/267509659/) **Meetup** - 9 Jan 2020 (A Coruña, Spain)
 - [Building a Framework on top of Spring Boot](https://2020.springio.net/sessions/building-a-framework-on-top-of-spring-boot) at **Spring I/O Conference** - 8 Oct 2020 (Barcelona, Spain)
+- [Building a Framework on top of Spring Boot]([https://2020.springio.net/sessions/building-a-framework-on-top-of-spring-boot](https://2022.springio.net/sessions/building-a-framework-on-top-of-spring-boot)) at **Spring I/O Conference** ([video available here](https://www.youtube.com/watch?v=1qT__SBWOhA&t=2s)) - 26th May 2022 (Barcelona, Spain)
 
 
 ## Offhours
