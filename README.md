@@ -19,8 +19,7 @@ I'm also starting to speak at meetups and conferences. You can check my talks so
 - [RSocket, the Protocol of the Future](https://www.meetup.com/Reactive-Amsterdam/events/265617612/) **Meetup** - 29 Oct 2019 (Amsterdam, Netherlands)
 - [Building a chatroom with Vue.js, Java and RSocket](https://www.meetup.com/es/VigoJUG/events/267185946/) **Meetup** - 26 Dec 2019 (Vigo, Spain)
 - [Building a Framework on top of Spring Boot](https://www.meetup.com/es/CorunaJUG/events/267509659/) **Meetup** - 9 Jan 2020 (A Coruña, Spain)
-- [Building a Framework on top of Spring Boot](https://2020.springio.net/sessions/building-a-framework-on-top-of-spring-boot) at **Spring I/O Conference** - 8 Oct 2020 (Barcelona, Spain)
-- [Building a Framework on top of Spring Boot](https://2022.springio.net/sessions/building-a-framework-on-top-of-spring-boot)) at **Spring I/O Conference** ([video available here](https://www.youtube.com/watch?v=1qT__SBWOhA&t=2s)) - 26th May 2022 (Barcelona, Spain)
+- [Building a Framework on top of Spring Boot](https://2022.springio.net/sessions/building-a-framework-on-top-of-spring-boot) at **Spring I/O Conference** ([video available here](https://www.youtube.com/watch?v=1qT__SBWOhA&t=2s)) - 26th May 2022 (Barcelona, Spain)
 
 
 ## Offhours
